@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itznotgrim
 - 👀 I’m interested in Systems and Network Administrator
-- 🌱 I’m currently learning PowerShell & Bash
+- 🌱 I’m currently learning JavaScript & PowerShell
 - 📫 You can reach by DM or instagram : @denis__ag
 - 🌐 Personal website : https://www.denis-andronache.fr
 
